@@ -3,6 +3,6 @@
 
 ### I have two side projects I put the most time in:
 - [VBA Decoded](https://github.com/vbadecoded). I created this as the 'modern' VBA/Access resource I wish I had.
-- [simpleBudget](https://github.com/simplebudgets). This one is a zero-based easy budgeting tool.
+- [simpleSuite](https://github.com/simplesuite). A simple set of web/PWA tools
 
 #### 📫 email me at jbrow4@gmail.com
